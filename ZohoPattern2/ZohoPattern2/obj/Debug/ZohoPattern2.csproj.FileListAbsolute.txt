@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoPattern2\ZohoPattern2\bin\Debug\ZohoPattern2.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoPattern2\ZohoPattern2\bin\Debug\ZohoPattern2.exe
+C:\Users\Z004K1SD\source\repos\ZohoPattern2\ZohoPattern2\bin\Debug\ZohoPattern2.pdb
+C:\Users\Z004K1SD\source\repos\ZohoPattern2\ZohoPattern2\obj\Debug\ZohoPattern2.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoPattern2\ZohoPattern2\obj\Debug\ZohoPattern2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoPattern2\ZohoPattern2\obj\Debug\ZohoPattern2.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoPattern2\ZohoPattern2\obj\Debug\ZohoPattern2.exe
+C:\Users\Z004K1SD\source\repos\ZohoPattern2\ZohoPattern2\obj\Debug\ZohoPattern2.pdb

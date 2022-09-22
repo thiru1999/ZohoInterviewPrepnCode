@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\icomparer_icomparable\bin\Debug\icomparer_icomparable.exe.config
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\icomparer_icomparable\bin\Debug\icomparer_icomparable.exe
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\icomparer_icomparable\bin\Debug\icomparer_icomparable.pdb
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\icomparer_icomparable\obj\Debug\icomparer_icomparable.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\icomparer_icomparable\obj\Debug\icomparer_icomparable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\icomparer_icomparable\obj\Debug\icomparer_icomparable.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\icomparer_icomparable\obj\Debug\icomparer_icomparable.exe
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\icomparer_icomparable\obj\Debug\icomparer_icomparable.pdb

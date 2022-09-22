@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoIsIsogram\ZohoIsIsogram\bin\Debug\ZohoIsIsogram.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoIsIsogram\ZohoIsIsogram\bin\Debug\ZohoIsIsogram.exe
+C:\Users\Z004K1SD\source\repos\ZohoIsIsogram\ZohoIsIsogram\bin\Debug\ZohoIsIsogram.pdb
+C:\Users\Z004K1SD\source\repos\ZohoIsIsogram\ZohoIsIsogram\obj\Debug\ZohoIsIsogram.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoIsIsogram\ZohoIsIsogram\obj\Debug\ZohoIsIsogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoIsIsogram\ZohoIsIsogram\obj\Debug\ZohoIsIsogram.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoIsIsogram\ZohoIsIsogram\obj\Debug\ZohoIsIsogram.exe
+C:\Users\Z004K1SD\source\repos\ZohoIsIsogram\ZohoIsIsogram\obj\Debug\ZohoIsIsogram.pdb

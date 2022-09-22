@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guess_no_higher_or_lower_leecode", "Guess_no_higher_or_lower_leecode\Guess_no_higher_or_lower_leecode.csproj", "{1836B9E4-AE39-4444-9156-2E8F45310400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1836B9E4-AE39-4444-9156-2E8F45310400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1836B9E4-AE39-4444-9156-2E8F45310400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1836B9E4-AE39-4444-9156-2E8F45310400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1836B9E4-AE39-4444-9156-2E8F45310400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2321148-EF04-4721-9C0B-354FD673CA86}
+	EndGlobalSection
+EndGlobal

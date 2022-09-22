@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateElementFromSortedLinekdList", "RemoveDuplicateElementFromSortedLinekdList\RemoveDuplicateElementFromSortedLinekdList.csproj", "{FE19A909-E7DC-41A6-85A0-3A8A72C1BD6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE19A909-E7DC-41A6-85A0-3A8A72C1BD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE19A909-E7DC-41A6-85A0-3A8A72C1BD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE19A909-E7DC-41A6-85A0-3A8A72C1BD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE19A909-E7DC-41A6-85A0-3A8A72C1BD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B04074C-6A5D-4F68-B143-A15032E43675}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\max_and_min_value_in_array\max_and_min_value_in_array\bin\Debug\max_and_min_value_in_array.exe.config
+C:\Users\Z004K1SD\source\repos\max_and_min_value_in_array\max_and_min_value_in_array\bin\Debug\max_and_min_value_in_array.exe
+C:\Users\Z004K1SD\source\repos\max_and_min_value_in_array\max_and_min_value_in_array\bin\Debug\max_and_min_value_in_array.pdb
+C:\Users\Z004K1SD\source\repos\max_and_min_value_in_array\max_and_min_value_in_array\obj\Debug\max_and_min_value_in_array.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\max_and_min_value_in_array\max_and_min_value_in_array\obj\Debug\max_and_min_value_in_array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\max_and_min_value_in_array\max_and_min_value_in_array\obj\Debug\max_and_min_value_in_array.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\max_and_min_value_in_array\max_and_min_value_in_array\obj\Debug\max_and_min_value_in_array.exe
+C:\Users\Z004K1SD\source\repos\max_and_min_value_in_array\max_and_min_value_in_array\obj\Debug\max_and_min_value_in_array.pdb

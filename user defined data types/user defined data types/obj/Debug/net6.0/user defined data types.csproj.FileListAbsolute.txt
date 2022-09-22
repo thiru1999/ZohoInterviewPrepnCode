@@ -1,0 +1,15 @@
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\bin\Debug\net6.0\user defined data types.exe
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\bin\Debug\net6.0\user defined data types.deps.json
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\bin\Debug\net6.0\user defined data types.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\bin\Debug\net6.0\user defined data types.dll
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\bin\Debug\net6.0\user defined data types.pdb
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\user defined data types.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\user defined data types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\user defined data types.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\user defined data types.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\user defined data types.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\user defined data types.dll
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\refint\user defined data types.dll
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\user defined data types.pdb
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\user defined data types.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\user defined data types\user defined data types\obj\Debug\net6.0\ref\user defined data types.dll

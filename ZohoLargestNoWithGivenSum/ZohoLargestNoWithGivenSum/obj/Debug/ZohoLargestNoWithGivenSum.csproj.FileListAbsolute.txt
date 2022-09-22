@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoLargestNoWithGivenSum\ZohoLargestNoWithGivenSum\obj\Debug\ZohoLargestNoWithGivenSum.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoLargestNoWithGivenSum\ZohoLargestNoWithGivenSum\obj\Debug\ZohoLargestNoWithGivenSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoLargestNoWithGivenSum\ZohoLargestNoWithGivenSum\obj\Debug\ZohoLargestNoWithGivenSum.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoLargestNoWithGivenSum\ZohoLargestNoWithGivenSum\bin\Debug\ZohoLargestNoWithGivenSum.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoLargestNoWithGivenSum\ZohoLargestNoWithGivenSum\bin\Debug\ZohoLargestNoWithGivenSum.exe
+C:\Users\Z004K1SD\source\repos\ZohoLargestNoWithGivenSum\ZohoLargestNoWithGivenSum\bin\Debug\ZohoLargestNoWithGivenSum.pdb
+C:\Users\Z004K1SD\source\repos\ZohoLargestNoWithGivenSum\ZohoLargestNoWithGivenSum\obj\Debug\ZohoLargestNoWithGivenSum.exe
+C:\Users\Z004K1SD\source\repos\ZohoLargestNoWithGivenSum\ZohoLargestNoWithGivenSum\obj\Debug\ZohoLargestNoWithGivenSum.pdb

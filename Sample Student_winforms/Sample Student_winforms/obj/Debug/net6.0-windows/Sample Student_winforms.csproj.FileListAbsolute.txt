@@ -1,0 +1,7 @@
+C:\Users\Z004K1SD\source\repos\Sample Student_winforms\Sample Student_winforms\obj\Debug\net6.0-windows\Sample Student_winforms.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\Sample Student_winforms\Sample Student_winforms\obj\Debug\net6.0-windows\Sample_Student_winforms.Form1.resources
+C:\Users\Z004K1SD\source\repos\Sample Student_winforms\Sample Student_winforms\obj\Debug\net6.0-windows\Sample Student_winforms.csproj.GenerateResource.cache
+C:\Users\Z004K1SD\source\repos\Sample Student_winforms\Sample Student_winforms\obj\Debug\net6.0-windows\Sample Student_winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\Sample Student_winforms\Sample Student_winforms\obj\Debug\net6.0-windows\Sample Student_winforms.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\Sample Student_winforms\Sample Student_winforms\obj\Debug\net6.0-windows\Sample Student_winforms.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\Sample Student_winforms\Sample Student_winforms\obj\Debug\net6.0-windows\Sample Student_winforms.csproj.CoreCompileInputs.cache

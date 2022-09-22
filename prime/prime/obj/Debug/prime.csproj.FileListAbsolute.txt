@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\prime\prime\bin\Debug\prime.exe.config
+C:\Users\Z004K1SD\source\repos\prime\prime\bin\Debug\prime.exe
+C:\Users\Z004K1SD\source\repos\prime\prime\bin\Debug\prime.pdb
+C:\Users\Z004K1SD\source\repos\prime\prime\obj\Debug\prime.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\prime\prime\obj\Debug\prime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\prime\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\prime\prime\obj\Debug\prime.exe
+C:\Users\Z004K1SD\source\repos\prime\prime\obj\Debug\prime.pdb

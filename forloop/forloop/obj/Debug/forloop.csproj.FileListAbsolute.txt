@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\forloop\forloop\bin\Debug\forloop.exe.config
+C:\Users\Z004K1SD\source\repos\forloop\forloop\bin\Debug\forloop.exe
+C:\Users\Z004K1SD\source\repos\forloop\forloop\bin\Debug\forloop.pdb
+C:\Users\Z004K1SD\source\repos\forloop\forloop\obj\Debug\forloop.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\forloop\forloop\obj\Debug\forloop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\forloop\forloop\obj\Debug\forloop.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\forloop\forloop\obj\Debug\forloop.exe
+C:\Users\Z004K1SD\source\repos\forloop\forloop\obj\Debug\forloop.pdb

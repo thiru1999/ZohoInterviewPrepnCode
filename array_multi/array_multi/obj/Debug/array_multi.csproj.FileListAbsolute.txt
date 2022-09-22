@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\array_multi\array_multi\bin\Debug\array_multi.exe.config
+C:\Users\Z004K1SD\source\repos\array_multi\array_multi\bin\Debug\array_multi.exe
+C:\Users\Z004K1SD\source\repos\array_multi\array_multi\bin\Debug\array_multi.pdb
+C:\Users\Z004K1SD\source\repos\array_multi\array_multi\obj\Debug\array_multi.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\array_multi\array_multi\obj\Debug\array_multi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\array_multi\array_multi\obj\Debug\array_multi.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\array_multi\array_multi\obj\Debug\array_multi.exe
+C:\Users\Z004K1SD\source\repos\array_multi\array_multi\obj\Debug\array_multi.pdb

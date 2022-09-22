@@ -1,0 +1,15 @@
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\bin\Debug\net6.0\Validate_Strings.exe
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\bin\Debug\net6.0\Validate_Strings.deps.json
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\bin\Debug\net6.0\Validate_Strings.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\bin\Debug\net6.0\Validate_Strings.dll
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\bin\Debug\net6.0\Validate_Strings.pdb
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\Validate_Strings.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\Validate_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\Validate_Strings.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\Validate_Strings.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\Validate_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\Validate_Strings.dll
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\refint\Validate_Strings.dll
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\Validate_Strings.pdb
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\Validate_Strings.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\Validate_Strings\Validate_Strings\obj\Debug\net6.0\ref\Validate_Strings.dll

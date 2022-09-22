@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\OVERRIDE\OVERRIDE\obj\Debug\OVERRIDE.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\OVERRIDE\OVERRIDE\obj\Debug\OVERRIDE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\OVERRIDE\OVERRIDE\obj\Debug\OVERRIDE.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\OVERRIDE\OVERRIDE\bin\Debug\OVERRIDE.exe.config
+C:\Users\Z004K1SD\source\repos\OVERRIDE\OVERRIDE\bin\Debug\OVERRIDE.exe
+C:\Users\Z004K1SD\source\repos\OVERRIDE\OVERRIDE\bin\Debug\OVERRIDE.pdb
+C:\Users\Z004K1SD\source\repos\OVERRIDE\OVERRIDE\obj\Debug\OVERRIDE.exe
+C:\Users\Z004K1SD\source\repos\OVERRIDE\OVERRIDE\obj\Debug\OVERRIDE.pdb

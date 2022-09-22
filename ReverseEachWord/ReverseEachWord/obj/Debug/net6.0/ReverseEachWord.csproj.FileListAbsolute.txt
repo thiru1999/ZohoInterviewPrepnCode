@@ -1,0 +1,15 @@
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\ReverseEachWord.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\ReverseEachWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\ReverseEachWord.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\ReverseEachWord.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\ReverseEachWord.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net6.0\ReverseEachWord.exe
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net6.0\ReverseEachWord.deps.json
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net6.0\ReverseEachWord.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net6.0\ReverseEachWord.dll
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\bin\Debug\net6.0\ReverseEachWord.pdb
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\ReverseEachWord.dll
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\refint\ReverseEachWord.dll
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\ReverseEachWord.pdb
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\ReverseEachWord.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\ReverseEachWord\ReverseEachWord\obj\Debug\net6.0\ref\ReverseEachWord.dll

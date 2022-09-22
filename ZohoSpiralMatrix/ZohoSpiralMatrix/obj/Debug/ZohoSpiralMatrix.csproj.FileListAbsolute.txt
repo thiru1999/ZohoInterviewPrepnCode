@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoSpiralMatrix\ZohoSpiralMatrix\bin\Debug\ZohoSpiralMatrix.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoSpiralMatrix\ZohoSpiralMatrix\bin\Debug\ZohoSpiralMatrix.exe
+C:\Users\Z004K1SD\source\repos\ZohoSpiralMatrix\ZohoSpiralMatrix\bin\Debug\ZohoSpiralMatrix.pdb
+C:\Users\Z004K1SD\source\repos\ZohoSpiralMatrix\ZohoSpiralMatrix\obj\Debug\ZohoSpiralMatrix.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoSpiralMatrix\ZohoSpiralMatrix\obj\Debug\ZohoSpiralMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoSpiralMatrix\ZohoSpiralMatrix\obj\Debug\ZohoSpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoSpiralMatrix\ZohoSpiralMatrix\obj\Debug\ZohoSpiralMatrix.exe
+C:\Users\Z004K1SD\source\repos\ZohoSpiralMatrix\ZohoSpiralMatrix\obj\Debug\ZohoSpiralMatrix.pdb

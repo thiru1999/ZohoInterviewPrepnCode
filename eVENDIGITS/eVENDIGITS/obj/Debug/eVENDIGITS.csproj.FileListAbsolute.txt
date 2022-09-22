@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\eVENDIGITS\eVENDIGITS\obj\Debug\eVENDIGITS.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\eVENDIGITS\eVENDIGITS\obj\Debug\eVENDIGITS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\eVENDIGITS\eVENDIGITS\obj\Debug\eVENDIGITS.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\eVENDIGITS\eVENDIGITS\bin\Debug\eVENDIGITS.exe.config
+C:\Users\Z004K1SD\source\repos\eVENDIGITS\eVENDIGITS\bin\Debug\eVENDIGITS.exe
+C:\Users\Z004K1SD\source\repos\eVENDIGITS\eVENDIGITS\bin\Debug\eVENDIGITS.pdb
+C:\Users\Z004K1SD\source\repos\eVENDIGITS\eVENDIGITS\obj\Debug\eVENDIGITS.exe
+C:\Users\Z004K1SD\source\repos\eVENDIGITS\eVENDIGITS\obj\Debug\eVENDIGITS.pdb

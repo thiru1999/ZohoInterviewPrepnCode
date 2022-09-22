@@ -1,0 +1,15 @@
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\bin\Debug\net6.0\enumerable.exe
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\bin\Debug\net6.0\enumerable.deps.json
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\bin\Debug\net6.0\enumerable.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\bin\Debug\net6.0\enumerable.dll
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\bin\Debug\net6.0\enumerable.pdb
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\enumerable.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\enumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\enumerable.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\enumerable.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\enumerable.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\enumerable.dll
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\refint\enumerable.dll
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\enumerable.pdb
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\enumerable.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\enumerable\enumerable\obj\Debug\net6.0\ref\enumerable.dll

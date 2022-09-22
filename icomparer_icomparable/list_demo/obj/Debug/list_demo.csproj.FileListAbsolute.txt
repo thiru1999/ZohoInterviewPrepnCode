@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\list_demo\bin\Debug\list_demo.exe.config
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\list_demo\bin\Debug\list_demo.exe
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\list_demo\bin\Debug\list_demo.pdb
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\list_demo\obj\Debug\list_demo.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\list_demo\obj\Debug\list_demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\list_demo\obj\Debug\list_demo.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\list_demo\obj\Debug\list_demo.exe
+C:\Users\Z004K1SD\source\repos\icomparer_icomparable\list_demo\obj\Debug\list_demo.pdb

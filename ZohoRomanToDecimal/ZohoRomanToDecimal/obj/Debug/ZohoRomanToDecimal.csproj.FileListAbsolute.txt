@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoRomanToDecimal\ZohoRomanToDecimal\bin\Debug\ZohoRomanToDecimal.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoRomanToDecimal\ZohoRomanToDecimal\bin\Debug\ZohoRomanToDecimal.exe
+C:\Users\Z004K1SD\source\repos\ZohoRomanToDecimal\ZohoRomanToDecimal\bin\Debug\ZohoRomanToDecimal.pdb
+C:\Users\Z004K1SD\source\repos\ZohoRomanToDecimal\ZohoRomanToDecimal\obj\Debug\ZohoRomanToDecimal.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoRomanToDecimal\ZohoRomanToDecimal\obj\Debug\ZohoRomanToDecimal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoRomanToDecimal\ZohoRomanToDecimal\obj\Debug\ZohoRomanToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoRomanToDecimal\ZohoRomanToDecimal\obj\Debug\ZohoRomanToDecimal.exe
+C:\Users\Z004K1SD\source\repos\ZohoRomanToDecimal\ZohoRomanToDecimal\obj\Debug\ZohoRomanToDecimal.pdb

@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoCreateDiagonelMatrix\ZohoCreateDiagonelMatrix\bin\Debug\ZohoCreateDiagonelMatrix.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoCreateDiagonelMatrix\ZohoCreateDiagonelMatrix\bin\Debug\ZohoCreateDiagonelMatrix.exe
+C:\Users\Z004K1SD\source\repos\ZohoCreateDiagonelMatrix\ZohoCreateDiagonelMatrix\bin\Debug\ZohoCreateDiagonelMatrix.pdb
+C:\Users\Z004K1SD\source\repos\ZohoCreateDiagonelMatrix\ZohoCreateDiagonelMatrix\obj\Debug\ZohoCreateDiagonelMatrix.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoCreateDiagonelMatrix\ZohoCreateDiagonelMatrix\obj\Debug\ZohoCreateDiagonelMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoCreateDiagonelMatrix\ZohoCreateDiagonelMatrix\obj\Debug\ZohoCreateDiagonelMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoCreateDiagonelMatrix\ZohoCreateDiagonelMatrix\obj\Debug\ZohoCreateDiagonelMatrix.exe
+C:\Users\Z004K1SD\source\repos\ZohoCreateDiagonelMatrix\ZohoCreateDiagonelMatrix\obj\Debug\ZohoCreateDiagonelMatrix.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseEachWord", "ReverseEachWord\ReverseEachWord.csproj", "{7BE7D911-F539-479A-9949-2B25C6E352F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE7D911-F539-479A-9949-2B25C6E352F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE7D911-F539-479A-9949-2B25C6E352F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE7D911-F539-479A-9949-2B25C6E352F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE7D911-F539-479A-9949-2B25C6E352F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {333C6D24-F64C-4B58-A95F-97ADCA3DD33D}
+	EndGlobalSection
+EndGlobal

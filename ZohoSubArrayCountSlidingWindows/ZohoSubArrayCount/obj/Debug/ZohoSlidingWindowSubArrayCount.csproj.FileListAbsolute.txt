@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoSubArrayCount\ZohoSubArrayCount\bin\Debug\ZohoSubArrayCount.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoSubArrayCount\ZohoSubArrayCount\bin\Debug\ZohoSubArrayCount.exe
+C:\Users\Z004K1SD\source\repos\ZohoSubArrayCount\ZohoSubArrayCount\bin\Debug\ZohoSubArrayCount.pdb
+C:\Users\Z004K1SD\source\repos\ZohoSubArrayCount\ZohoSubArrayCount\obj\Debug\ZohoSlidingWindowSubArrayCount.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoSubArrayCount\ZohoSubArrayCount\obj\Debug\ZohoSlidingWindowSubArrayCount.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoSubArrayCount\ZohoSubArrayCount\obj\Debug\ZohoSlidingWindowSubArrayCount.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoSubArrayCount\ZohoSubArrayCount\obj\Debug\ZohoSubArrayCount.exe
+C:\Users\Z004K1SD\source\repos\ZohoSubArrayCount\ZohoSubArrayCount\obj\Debug\ZohoSubArrayCount.pdb

@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\DelegateMosh\DelegateMosh\bin\Debug\DelegateMosh.exe.config
+C:\Users\Z004K1SD\source\repos\DelegateMosh\DelegateMosh\bin\Debug\DelegateMosh.exe
+C:\Users\Z004K1SD\source\repos\DelegateMosh\DelegateMosh\bin\Debug\DelegateMosh.pdb
+C:\Users\Z004K1SD\source\repos\DelegateMosh\DelegateMosh\obj\Debug\DelegateMosh.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\DelegateMosh\DelegateMosh\obj\Debug\DelegateMosh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\DelegateMosh\DelegateMosh\obj\Debug\DelegateMosh.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\DelegateMosh\DelegateMosh\obj\Debug\DelegateMosh.exe
+C:\Users\Z004K1SD\source\repos\DelegateMosh\DelegateMosh\obj\Debug\DelegateMosh.pdb

@@ -1,0 +1,15 @@
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\bin\Debug\net6.0\Hackerrank_plus_minus.exe
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\bin\Debug\net6.0\Hackerrank_plus_minus.deps.json
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\bin\Debug\net6.0\Hackerrank_plus_minus.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\bin\Debug\net6.0\Hackerrank_plus_minus.dll
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\bin\Debug\net6.0\Hackerrank_plus_minus.pdb
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\Hackerrank_plus_minus.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\Hackerrank_plus_minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\Hackerrank_plus_minus.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\Hackerrank_plus_minus.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\Hackerrank_plus_minus.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\Hackerrank_plus_minus.dll
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\refint\Hackerrank_plus_minus.dll
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\Hackerrank_plus_minus.pdb
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\Hackerrank_plus_minus.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\Hackerrank_plus_minus\Hackerrank_plus_minus\obj\Debug\net6.0\ref\Hackerrank_plus_minus.dll

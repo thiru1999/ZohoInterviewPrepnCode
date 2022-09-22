@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\string_stringbuilder\string_stringbuilder\bin\Debug\string_stringbuilder.exe.config
+C:\Users\Z004K1SD\source\repos\string_stringbuilder\string_stringbuilder\bin\Debug\string_stringbuilder.exe
+C:\Users\Z004K1SD\source\repos\string_stringbuilder\string_stringbuilder\bin\Debug\string_stringbuilder.pdb
+C:\Users\Z004K1SD\source\repos\string_stringbuilder\string_stringbuilder\obj\Debug\string_stringbuilder.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\string_stringbuilder\string_stringbuilder\obj\Debug\string_stringbuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\string_stringbuilder\string_stringbuilder\obj\Debug\string_stringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\string_stringbuilder\string_stringbuilder\obj\Debug\string_stringbuilder.exe
+C:\Users\Z004K1SD\source\repos\string_stringbuilder\string_stringbuilder\obj\Debug\string_stringbuilder.pdb

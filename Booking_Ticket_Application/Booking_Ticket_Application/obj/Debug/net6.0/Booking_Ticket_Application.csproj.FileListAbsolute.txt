@@ -1,0 +1,15 @@
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\Booking_Ticket_Application.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\Booking_Ticket_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\Booking_Ticket_Application.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\Booking_Ticket_Application.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\Booking_Ticket_Application.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\bin\Debug\net6.0\Booking_Ticket_Application.exe
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\bin\Debug\net6.0\Booking_Ticket_Application.deps.json
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\bin\Debug\net6.0\Booking_Ticket_Application.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\bin\Debug\net6.0\Booking_Ticket_Application.dll
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\bin\Debug\net6.0\Booking_Ticket_Application.pdb
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\Booking_Ticket_Application.dll
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\refint\Booking_Ticket_Application.dll
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\Booking_Ticket_Application.pdb
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\Booking_Ticket_Application.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\Booking_Ticket_Application\Booking_Ticket_Application\obj\Debug\net6.0\ref\Booking_Ticket_Application.dll

@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\RotateArray\RotateArray\bin\Debug\RotateArray.exe.config
+C:\Users\Z004K1SD\source\repos\RotateArray\RotateArray\bin\Debug\RotateArray.exe
+C:\Users\Z004K1SD\source\repos\RotateArray\RotateArray\bin\Debug\RotateArray.pdb
+C:\Users\Z004K1SD\source\repos\RotateArray\RotateArray\obj\Debug\RotateArray.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\RotateArray\RotateArray\obj\Debug\RotateArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\RotateArray\RotateArray\obj\Debug\RotateArray.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\RotateArray\RotateArray\obj\Debug\RotateArray.exe
+C:\Users\Z004K1SD\source\repos\RotateArray\RotateArray\obj\Debug\RotateArray.pdb

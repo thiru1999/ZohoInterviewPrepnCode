@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\AggregationAndFilterArray\AggregationAndFilterArray\bin\Debug\AggregationAndFilterArray.exe.config
+C:\Users\Z004K1SD\source\repos\AggregationAndFilterArray\AggregationAndFilterArray\bin\Debug\AggregationAndFilterArray.exe
+C:\Users\Z004K1SD\source\repos\AggregationAndFilterArray\AggregationAndFilterArray\bin\Debug\AggregationAndFilterArray.pdb
+C:\Users\Z004K1SD\source\repos\AggregationAndFilterArray\AggregationAndFilterArray\obj\Debug\AggregationAndFilterArray.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\AggregationAndFilterArray\AggregationAndFilterArray\obj\Debug\AggregationAndFilterArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\AggregationAndFilterArray\AggregationAndFilterArray\obj\Debug\AggregationAndFilterArray.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\AggregationAndFilterArray\AggregationAndFilterArray\obj\Debug\AggregationAndFilterArray.exe
+C:\Users\Z004K1SD\source\repos\AggregationAndFilterArray\AggregationAndFilterArray\obj\Debug\AggregationAndFilterArray.pdb

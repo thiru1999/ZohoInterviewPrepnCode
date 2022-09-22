@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoSnakeGame\ZohoSnakeGame\obj\Debug\ZohoSnakeGame.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoSnakeGame\ZohoSnakeGame\obj\Debug\ZohoSnakeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoSnakeGame\ZohoSnakeGame\obj\Debug\ZohoSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoSnakeGame\ZohoSnakeGame\bin\Debug\ZohoSnakeGame.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoSnakeGame\ZohoSnakeGame\bin\Debug\ZohoSnakeGame.exe
+C:\Users\Z004K1SD\source\repos\ZohoSnakeGame\ZohoSnakeGame\bin\Debug\ZohoSnakeGame.pdb
+C:\Users\Z004K1SD\source\repos\ZohoSnakeGame\ZohoSnakeGame\obj\Debug\ZohoSnakeGame.exe
+C:\Users\Z004K1SD\source\repos\ZohoSnakeGame\ZohoSnakeGame\obj\Debug\ZohoSnakeGame.pdb

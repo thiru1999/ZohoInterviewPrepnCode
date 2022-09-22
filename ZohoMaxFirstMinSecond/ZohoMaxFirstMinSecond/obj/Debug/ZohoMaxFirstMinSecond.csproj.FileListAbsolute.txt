@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoMaxFirstMinSecond\ZohoMaxFirstMinSecond\bin\Debug\ZohoMaxFirstMinSecond.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoMaxFirstMinSecond\ZohoMaxFirstMinSecond\bin\Debug\ZohoMaxFirstMinSecond.exe
+C:\Users\Z004K1SD\source\repos\ZohoMaxFirstMinSecond\ZohoMaxFirstMinSecond\bin\Debug\ZohoMaxFirstMinSecond.pdb
+C:\Users\Z004K1SD\source\repos\ZohoMaxFirstMinSecond\ZohoMaxFirstMinSecond\obj\Debug\ZohoMaxFirstMinSecond.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoMaxFirstMinSecond\ZohoMaxFirstMinSecond\obj\Debug\ZohoMaxFirstMinSecond.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoMaxFirstMinSecond\ZohoMaxFirstMinSecond\obj\Debug\ZohoMaxFirstMinSecond.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoMaxFirstMinSecond\ZohoMaxFirstMinSecond\obj\Debug\ZohoMaxFirstMinSecond.exe
+C:\Users\Z004K1SD\source\repos\ZohoMaxFirstMinSecond\ZohoMaxFirstMinSecond\obj\Debug\ZohoMaxFirstMinSecond.pdb

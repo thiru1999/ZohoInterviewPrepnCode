@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\LinkedinDelegate\LinkedinDelegate\obj\Debug\LinkedinDelegate.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\LinkedinDelegate\LinkedinDelegate\obj\Debug\LinkedinDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\LinkedinDelegate\LinkedinDelegate\obj\Debug\LinkedinDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\LinkedinDelegate\LinkedinDelegate\bin\Debug\LinkedinDelegate.exe.config
+C:\Users\Z004K1SD\source\repos\LinkedinDelegate\LinkedinDelegate\bin\Debug\LinkedinDelegate.exe
+C:\Users\Z004K1SD\source\repos\LinkedinDelegate\LinkedinDelegate\bin\Debug\LinkedinDelegate.pdb
+C:\Users\Z004K1SD\source\repos\LinkedinDelegate\LinkedinDelegate\obj\Debug\LinkedinDelegate.exe
+C:\Users\Z004K1SD\source\repos\LinkedinDelegate\LinkedinDelegate\obj\Debug\LinkedinDelegate.pdb

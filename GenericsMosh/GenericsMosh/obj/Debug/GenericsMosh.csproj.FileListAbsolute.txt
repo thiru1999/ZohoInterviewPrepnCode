@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\GenericsMosh\GenericsMosh\bin\Debug\GenericsMosh.exe.config
+C:\Users\Z004K1SD\source\repos\GenericsMosh\GenericsMosh\bin\Debug\GenericsMosh.exe
+C:\Users\Z004K1SD\source\repos\GenericsMosh\GenericsMosh\bin\Debug\GenericsMosh.pdb
+C:\Users\Z004K1SD\source\repos\GenericsMosh\GenericsMosh\obj\Debug\GenericsMosh.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\GenericsMosh\GenericsMosh\obj\Debug\GenericsMosh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\GenericsMosh\GenericsMosh\obj\Debug\GenericsMosh.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\GenericsMosh\GenericsMosh\obj\Debug\GenericsMosh.exe
+C:\Users\Z004K1SD\source\repos\GenericsMosh\GenericsMosh\obj\Debug\GenericsMosh.pdb

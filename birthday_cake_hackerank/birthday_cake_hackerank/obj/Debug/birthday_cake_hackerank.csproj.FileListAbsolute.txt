@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\birthday_cake_hackerank\birthday_cake_hackerank\bin\Debug\birthday_cake_hackerank.exe.config
+C:\Users\Z004K1SD\source\repos\birthday_cake_hackerank\birthday_cake_hackerank\bin\Debug\birthday_cake_hackerank.exe
+C:\Users\Z004K1SD\source\repos\birthday_cake_hackerank\birthday_cake_hackerank\bin\Debug\birthday_cake_hackerank.pdb
+C:\Users\Z004K1SD\source\repos\birthday_cake_hackerank\birthday_cake_hackerank\obj\Debug\birthday_cake_hackerank.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\birthday_cake_hackerank\birthday_cake_hackerank\obj\Debug\birthday_cake_hackerank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\birthday_cake_hackerank\birthday_cake_hackerank\obj\Debug\birthday_cake_hackerank.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\birthday_cake_hackerank\birthday_cake_hackerank\obj\Debug\birthday_cake_hackerank.exe
+C:\Users\Z004K1SD\source\repos\birthday_cake_hackerank\birthday_cake_hackerank\obj\Debug\birthday_cake_hackerank.pdb

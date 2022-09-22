@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\12hrs_to_24hrs\12hrs_to_24hrs\bin\Debug\12hrs_to_24hrs.exe.config
+C:\Users\Z004K1SD\source\repos\12hrs_to_24hrs\12hrs_to_24hrs\bin\Debug\12hrs_to_24hrs.exe
+C:\Users\Z004K1SD\source\repos\12hrs_to_24hrs\12hrs_to_24hrs\bin\Debug\12hrs_to_24hrs.pdb
+C:\Users\Z004K1SD\source\repos\12hrs_to_24hrs\12hrs_to_24hrs\obj\Debug\12hrs_to_24hrs.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\12hrs_to_24hrs\12hrs_to_24hrs\obj\Debug\12hrs_to_24hrs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\12hrs_to_24hrs\12hrs_to_24hrs\obj\Debug\12hrs_to_24hrs.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\12hrs_to_24hrs\12hrs_to_24hrs\obj\Debug\12hrs_to_24hrs.exe
+C:\Users\Z004K1SD\source\repos\12hrs_to_24hrs\12hrs_to_24hrs\obj\Debug\12hrs_to_24hrs.pdb

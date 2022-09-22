@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoKPangrams\ZohoKPangrams\bin\Debug\ZohoKPangrams.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoKPangrams\ZohoKPangrams\bin\Debug\ZohoKPangrams.exe
+C:\Users\Z004K1SD\source\repos\ZohoKPangrams\ZohoKPangrams\bin\Debug\ZohoKPangrams.pdb
+C:\Users\Z004K1SD\source\repos\ZohoKPangrams\ZohoKPangrams\obj\Debug\ZohoKPangrams.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoKPangrams\ZohoKPangrams\obj\Debug\ZohoKPangrams.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoKPangrams\ZohoKPangrams\obj\Debug\ZohoKPangrams.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoKPangrams\ZohoKPangrams\obj\Debug\ZohoKPangrams.exe
+C:\Users\Z004K1SD\source\repos\ZohoKPangrams\ZohoKPangrams\obj\Debug\ZohoKPangrams.pdb

@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ExceptionMosh\ExceptionMosh\bin\Debug\ExceptionMosh.exe.config
+C:\Users\Z004K1SD\source\repos\ExceptionMosh\ExceptionMosh\bin\Debug\ExceptionMosh.exe
+C:\Users\Z004K1SD\source\repos\ExceptionMosh\ExceptionMosh\bin\Debug\ExceptionMosh.pdb
+C:\Users\Z004K1SD\source\repos\ExceptionMosh\ExceptionMosh\obj\Debug\ExceptionMosh.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ExceptionMosh\ExceptionMosh\obj\Debug\ExceptionMosh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ExceptionMosh\ExceptionMosh\obj\Debug\ExceptionMosh.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ExceptionMosh\ExceptionMosh\obj\Debug\ExceptionMosh.exe
+C:\Users\Z004K1SD\source\repos\ExceptionMosh\ExceptionMosh\obj\Debug\ExceptionMosh.pdb

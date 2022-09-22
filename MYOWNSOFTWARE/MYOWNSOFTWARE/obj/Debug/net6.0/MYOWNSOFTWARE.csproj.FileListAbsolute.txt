@@ -1,0 +1,12 @@
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\bin\Debug\net6.0\MYOWNSOFTWARE.deps.json
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\bin\Debug\net6.0\MYOWNSOFTWARE.dll
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\bin\Debug\net6.0\MYOWNSOFTWARE.pdb
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\obj\Debug\net6.0\MYOWNSOFTWARE.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\obj\Debug\net6.0\MYOWNSOFTWARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\obj\Debug\net6.0\MYOWNSOFTWARE.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\obj\Debug\net6.0\MYOWNSOFTWARE.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\obj\Debug\net6.0\MYOWNSOFTWARE.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\obj\Debug\net6.0\MYOWNSOFTWARE.dll
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\obj\Debug\net6.0\refint\MYOWNSOFTWARE.dll
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\obj\Debug\net6.0\MYOWNSOFTWARE.pdb
+C:\Users\Z004K1SD\source\repos\MYOWNSOFTWARE\MYOWNSOFTWARE\obj\Debug\net6.0\ref\MYOWNSOFTWARE.dll

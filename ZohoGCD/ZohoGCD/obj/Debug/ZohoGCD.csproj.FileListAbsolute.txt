@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoGCD\ZohoGCD\bin\Debug\ZohoGCD.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoGCD\ZohoGCD\bin\Debug\ZohoGCD.exe
+C:\Users\Z004K1SD\source\repos\ZohoGCD\ZohoGCD\bin\Debug\ZohoGCD.pdb
+C:\Users\Z004K1SD\source\repos\ZohoGCD\ZohoGCD\obj\Debug\ZohoGCD.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoGCD\ZohoGCD\obj\Debug\ZohoGCD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoGCD\ZohoGCD\obj\Debug\ZohoGCD.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoGCD\ZohoGCD\obj\Debug\ZohoGCD.exe
+C:\Users\Z004K1SD\source\repos\ZohoGCD\ZohoGCD\obj\Debug\ZohoGCD.pdb

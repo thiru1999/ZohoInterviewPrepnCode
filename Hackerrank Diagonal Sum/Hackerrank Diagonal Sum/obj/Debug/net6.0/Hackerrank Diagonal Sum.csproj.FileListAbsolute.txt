@@ -1,0 +1,15 @@
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\bin\Debug\net6.0\Hackerrank Diagonal Sum.exe
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\bin\Debug\net6.0\Hackerrank Diagonal Sum.deps.json
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\bin\Debug\net6.0\Hackerrank Diagonal Sum.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\bin\Debug\net6.0\Hackerrank Diagonal Sum.dll
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\bin\Debug\net6.0\Hackerrank Diagonal Sum.pdb
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\Hackerrank Diagonal Sum.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\Hackerrank Diagonal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\Hackerrank Diagonal Sum.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\Hackerrank Diagonal Sum.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\Hackerrank Diagonal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\Hackerrank Diagonal Sum.dll
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\refint\Hackerrank Diagonal Sum.dll
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\Hackerrank Diagonal Sum.pdb
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\Hackerrank Diagonal Sum.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\Hackerrank Diagonal Sum\Hackerrank Diagonal Sum\obj\Debug\net6.0\ref\Hackerrank Diagonal Sum.dll

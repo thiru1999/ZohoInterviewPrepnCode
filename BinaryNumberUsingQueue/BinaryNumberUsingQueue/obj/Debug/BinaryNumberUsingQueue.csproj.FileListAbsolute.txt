@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\BinaryNumberUsingQueue\BinaryNumberUsingQueue\bin\Debug\BinaryNumberUsingQueue.exe.config
+C:\Users\Z004K1SD\source\repos\BinaryNumberUsingQueue\BinaryNumberUsingQueue\bin\Debug\BinaryNumberUsingQueue.exe
+C:\Users\Z004K1SD\source\repos\BinaryNumberUsingQueue\BinaryNumberUsingQueue\bin\Debug\BinaryNumberUsingQueue.pdb
+C:\Users\Z004K1SD\source\repos\BinaryNumberUsingQueue\BinaryNumberUsingQueue\obj\Debug\BinaryNumberUsingQueue.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\BinaryNumberUsingQueue\BinaryNumberUsingQueue\obj\Debug\BinaryNumberUsingQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\BinaryNumberUsingQueue\BinaryNumberUsingQueue\obj\Debug\BinaryNumberUsingQueue.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\BinaryNumberUsingQueue\BinaryNumberUsingQueue\obj\Debug\BinaryNumberUsingQueue.exe
+C:\Users\Z004K1SD\source\repos\BinaryNumberUsingQueue\BinaryNumberUsingQueue\obj\Debug\BinaryNumberUsingQueue.pdb

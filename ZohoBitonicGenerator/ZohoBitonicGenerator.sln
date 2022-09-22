@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZohoBitonicGenerator", "ZohoBitonicGenerator\ZohoBitonicGenerator.csproj", "{2EA45782-A3DD-4CA9-B455-0231E82B404F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA45782-A3DD-4CA9-B455-0231E82B404F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA45782-A3DD-4CA9-B455-0231E82B404F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA45782-A3DD-4CA9-B455-0231E82B404F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA45782-A3DD-4CA9-B455-0231E82B404F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DDA0EE6-3A49-469F-8F90-06D357415895}
+	EndGlobalSection
+EndGlobal

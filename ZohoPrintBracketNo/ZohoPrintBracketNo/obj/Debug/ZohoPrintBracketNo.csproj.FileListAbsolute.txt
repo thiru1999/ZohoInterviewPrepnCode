@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoPrintBracketNo\ZohoPrintBracketNo\bin\Debug\ZohoPrintBracketNo.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoPrintBracketNo\ZohoPrintBracketNo\bin\Debug\ZohoPrintBracketNo.exe
+C:\Users\Z004K1SD\source\repos\ZohoPrintBracketNo\ZohoPrintBracketNo\bin\Debug\ZohoPrintBracketNo.pdb
+C:\Users\Z004K1SD\source\repos\ZohoPrintBracketNo\ZohoPrintBracketNo\obj\Debug\ZohoPrintBracketNo.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoPrintBracketNo\ZohoPrintBracketNo\obj\Debug\ZohoPrintBracketNo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoPrintBracketNo\ZohoPrintBracketNo\obj\Debug\ZohoPrintBracketNo.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoPrintBracketNo\ZohoPrintBracketNo\obj\Debug\ZohoPrintBracketNo.exe
+C:\Users\Z004K1SD\source\repos\ZohoPrintBracketNo\ZohoPrintBracketNo\obj\Debug\ZohoPrintBracketNo.pdb

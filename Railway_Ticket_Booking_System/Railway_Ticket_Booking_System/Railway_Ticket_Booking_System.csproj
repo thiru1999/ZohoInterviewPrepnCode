@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Railway_Ticket_Booking_System">
+      <HintPath>bin\Debug\net6.0\Railway_Ticket_Booking_System.dll</HintPath>
+    </Reference>
+    <Reference Include="ticket booking">
+      <HintPath>..\..\ticket booking\ticket booking\bin\Debug\net6.0\ticket booking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZohoKPangrams", "ZohoKPangrams\ZohoKPangrams.csproj", "{934EA57A-31C0-462F-9D72-9CDC76C1A043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{934EA57A-31C0-462F-9D72-9CDC76C1A043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934EA57A-31C0-462F-9D72-9CDC76C1A043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934EA57A-31C0-462F-9D72-9CDC76C1A043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934EA57A-31C0-462F-9D72-9CDC76C1A043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {115AD9BB-4821-4531-BFF0-2DE77A6E0566}
+	EndGlobalSection
+EndGlobal

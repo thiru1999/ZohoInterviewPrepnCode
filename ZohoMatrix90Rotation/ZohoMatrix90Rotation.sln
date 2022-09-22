@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZohoMatrix90Rotation", "ZohoMatrix90Rotation\ZohoMatrix90Rotation.csproj", "{C5FB3676-862E-42ED-A580-594CA6F6BA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5FB3676-862E-42ED-A580-594CA6F6BA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FB3676-862E-42ED-A580-594CA6F6BA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FB3676-862E-42ED-A580-594CA6F6BA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FB3676-862E-42ED-A580-594CA6F6BA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E51C824-0A38-4140-B42E-A3030BF68791}
+	EndGlobalSection
+EndGlobal

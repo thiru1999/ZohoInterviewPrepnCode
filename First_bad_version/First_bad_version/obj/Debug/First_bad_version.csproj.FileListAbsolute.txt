@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\First_bad_version\First_bad_version\bin\Debug\First_bad_version.exe.config
+C:\Users\Z004K1SD\source\repos\First_bad_version\First_bad_version\bin\Debug\First_bad_version.exe
+C:\Users\Z004K1SD\source\repos\First_bad_version\First_bad_version\bin\Debug\First_bad_version.pdb
+C:\Users\Z004K1SD\source\repos\First_bad_version\First_bad_version\obj\Debug\First_bad_version.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\First_bad_version\First_bad_version\obj\Debug\First_bad_version.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\First_bad_version\First_bad_version\obj\Debug\First_bad_version.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\First_bad_version\First_bad_version\obj\Debug\First_bad_version.exe
+C:\Users\Z004K1SD\source\repos\First_bad_version\First_bad_version\obj\Debug\First_bad_version.pdb

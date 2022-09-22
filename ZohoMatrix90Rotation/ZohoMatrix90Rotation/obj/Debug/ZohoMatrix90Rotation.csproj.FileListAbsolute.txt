@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoMatrix90Rotation\ZohoMatrix90Rotation\bin\Debug\ZohoMatrix90Rotation.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoMatrix90Rotation\ZohoMatrix90Rotation\bin\Debug\ZohoMatrix90Rotation.exe
+C:\Users\Z004K1SD\source\repos\ZohoMatrix90Rotation\ZohoMatrix90Rotation\bin\Debug\ZohoMatrix90Rotation.pdb
+C:\Users\Z004K1SD\source\repos\ZohoMatrix90Rotation\ZohoMatrix90Rotation\obj\Debug\ZohoMatrix90Rotation.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoMatrix90Rotation\ZohoMatrix90Rotation\obj\Debug\ZohoMatrix90Rotation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoMatrix90Rotation\ZohoMatrix90Rotation\obj\Debug\ZohoMatrix90Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoMatrix90Rotation\ZohoMatrix90Rotation\obj\Debug\ZohoMatrix90Rotation.exe
+C:\Users\Z004K1SD\source\repos\ZohoMatrix90Rotation\ZohoMatrix90Rotation\obj\Debug\ZohoMatrix90Rotation.pdb

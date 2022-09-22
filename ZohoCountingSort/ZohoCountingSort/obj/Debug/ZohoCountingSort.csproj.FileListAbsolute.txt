@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoCountingSort\ZohoCountingSort\obj\Debug\ZohoCountingSort.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoCountingSort\ZohoCountingSort\obj\Debug\ZohoCountingSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoCountingSort\ZohoCountingSort\obj\Debug\ZohoCountingSort.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoCountingSort\ZohoCountingSort\bin\Debug\ZohoCountingSort.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoCountingSort\ZohoCountingSort\bin\Debug\ZohoCountingSort.exe
+C:\Users\Z004K1SD\source\repos\ZohoCountingSort\ZohoCountingSort\bin\Debug\ZohoCountingSort.pdb
+C:\Users\Z004K1SD\source\repos\ZohoCountingSort\ZohoCountingSort\obj\Debug\ZohoCountingSort.exe
+C:\Users\Z004K1SD\source\repos\ZohoCountingSort\ZohoCountingSort\obj\Debug\ZohoCountingSort.pdb

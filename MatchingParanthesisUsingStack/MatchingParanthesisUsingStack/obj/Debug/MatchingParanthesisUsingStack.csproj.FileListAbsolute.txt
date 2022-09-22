@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\MatchingParanthesisUsingStack\MatchingParanthesisUsingStack\bin\Debug\MatchingParanthesisUsingStack.exe.config
+C:\Users\Z004K1SD\source\repos\MatchingParanthesisUsingStack\MatchingParanthesisUsingStack\bin\Debug\MatchingParanthesisUsingStack.exe
+C:\Users\Z004K1SD\source\repos\MatchingParanthesisUsingStack\MatchingParanthesisUsingStack\bin\Debug\MatchingParanthesisUsingStack.pdb
+C:\Users\Z004K1SD\source\repos\MatchingParanthesisUsingStack\MatchingParanthesisUsingStack\obj\Debug\MatchingParanthesisUsingStack.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\MatchingParanthesisUsingStack\MatchingParanthesisUsingStack\obj\Debug\MatchingParanthesisUsingStack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\MatchingParanthesisUsingStack\MatchingParanthesisUsingStack\obj\Debug\MatchingParanthesisUsingStack.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\MatchingParanthesisUsingStack\MatchingParanthesisUsingStack\obj\Debug\MatchingParanthesisUsingStack.exe
+C:\Users\Z004K1SD\source\repos\MatchingParanthesisUsingStack\MatchingParanthesisUsingStack\obj\Debug\MatchingParanthesisUsingStack.pdb

@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\WhatsappUpdateEventExampleOwn\WhatsappUpdateEventExampleOwn\bin\Debug\WhatsappUpdateEventExampleOwn.exe.config
+C:\Users\Z004K1SD\source\repos\WhatsappUpdateEventExampleOwn\WhatsappUpdateEventExampleOwn\bin\Debug\WhatsappUpdateEventExampleOwn.exe
+C:\Users\Z004K1SD\source\repos\WhatsappUpdateEventExampleOwn\WhatsappUpdateEventExampleOwn\bin\Debug\WhatsappUpdateEventExampleOwn.pdb
+C:\Users\Z004K1SD\source\repos\WhatsappUpdateEventExampleOwn\WhatsappUpdateEventExampleOwn\obj\Debug\WhatsappUpdateEventExampleOwn.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\WhatsappUpdateEventExampleOwn\WhatsappUpdateEventExampleOwn\obj\Debug\WhatsappUpdateEventExampleOwn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\WhatsappUpdateEventExampleOwn\WhatsappUpdateEventExampleOwn\obj\Debug\WhatsappUpdateEventExampleOwn.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\WhatsappUpdateEventExampleOwn\WhatsappUpdateEventExampleOwn\obj\Debug\WhatsappUpdateEventExampleOwn.exe
+C:\Users\Z004K1SD\source\repos\WhatsappUpdateEventExampleOwn\WhatsappUpdateEventExampleOwn\obj\Debug\WhatsappUpdateEventExampleOwn.pdb

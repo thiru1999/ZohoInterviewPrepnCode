@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoRemoveDuplicateElement\ZohoRemoveDuplicateElement\bin\Debug\ZohoRemoveDuplicateElement.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoRemoveDuplicateElement\ZohoRemoveDuplicateElement\bin\Debug\ZohoRemoveDuplicateElement.exe
+C:\Users\Z004K1SD\source\repos\ZohoRemoveDuplicateElement\ZohoRemoveDuplicateElement\bin\Debug\ZohoRemoveDuplicateElement.pdb
+C:\Users\Z004K1SD\source\repos\ZohoRemoveDuplicateElement\ZohoRemoveDuplicateElement\obj\Debug\ZohoRemoveDuplicateElement.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoRemoveDuplicateElement\ZohoRemoveDuplicateElement\obj\Debug\ZohoRemoveDuplicateElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoRemoveDuplicateElement\ZohoRemoveDuplicateElement\obj\Debug\ZohoRemoveDuplicateElement.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoRemoveDuplicateElement\ZohoRemoveDuplicateElement\obj\Debug\ZohoRemoveDuplicateElement.exe
+C:\Users\Z004K1SD\source\repos\ZohoRemoveDuplicateElement\ZohoRemoveDuplicateElement\obj\Debug\ZohoRemoveDuplicateElement.pdb

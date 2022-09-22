@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\NullableTypeMosh\NullableTypeMosh\bin\Debug\NullableTypeMosh.exe.config
+C:\Users\Z004K1SD\source\repos\NullableTypeMosh\NullableTypeMosh\bin\Debug\NullableTypeMosh.exe
+C:\Users\Z004K1SD\source\repos\NullableTypeMosh\NullableTypeMosh\bin\Debug\NullableTypeMosh.pdb
+C:\Users\Z004K1SD\source\repos\NullableTypeMosh\NullableTypeMosh\obj\Debug\NullableTypeMosh.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\NullableTypeMosh\NullableTypeMosh\obj\Debug\NullableTypeMosh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\NullableTypeMosh\NullableTypeMosh\obj\Debug\NullableTypeMosh.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\NullableTypeMosh\NullableTypeMosh\obj\Debug\NullableTypeMosh.exe
+C:\Users\Z004K1SD\source\repos\NullableTypeMosh\NullableTypeMosh\obj\Debug\NullableTypeMosh.pdb

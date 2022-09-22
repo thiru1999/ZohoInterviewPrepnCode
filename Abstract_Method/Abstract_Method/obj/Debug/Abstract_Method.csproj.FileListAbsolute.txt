@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\Abstract_Method\Abstract_Method\bin\Debug\Abstract_Method.exe.config
+C:\Users\Z004K1SD\source\repos\Abstract_Method\Abstract_Method\bin\Debug\Abstract_Method.exe
+C:\Users\Z004K1SD\source\repos\Abstract_Method\Abstract_Method\bin\Debug\Abstract_Method.pdb
+C:\Users\Z004K1SD\source\repos\Abstract_Method\Abstract_Method\obj\Debug\Abstract_Method.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\Abstract_Method\Abstract_Method\obj\Debug\Abstract_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\Abstract_Method\Abstract_Method\obj\Debug\Abstract_Method.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\Abstract_Method\Abstract_Method\obj\Debug\Abstract_Method.exe
+C:\Users\Z004K1SD\source\repos\Abstract_Method\Abstract_Method\obj\Debug\Abstract_Method.pdb

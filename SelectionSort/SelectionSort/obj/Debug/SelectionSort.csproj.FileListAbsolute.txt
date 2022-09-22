@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Z004K1SD\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Z004K1SD\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Z004K1SD\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Z004K1SD\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

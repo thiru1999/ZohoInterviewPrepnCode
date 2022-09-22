@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\OptimizedBubbleSort\OptimizedBubbleSort\bin\Debug\OptimizedBubbleSort.exe.config
+C:\Users\Z004K1SD\source\repos\OptimizedBubbleSort\OptimizedBubbleSort\bin\Debug\OptimizedBubbleSort.exe
+C:\Users\Z004K1SD\source\repos\OptimizedBubbleSort\OptimizedBubbleSort\bin\Debug\OptimizedBubbleSort.pdb
+C:\Users\Z004K1SD\source\repos\OptimizedBubbleSort\OptimizedBubbleSort\obj\Debug\OptimizedBubbleSort.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\OptimizedBubbleSort\OptimizedBubbleSort\obj\Debug\OptimizedBubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\OptimizedBubbleSort\OptimizedBubbleSort\obj\Debug\OptimizedBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\OptimizedBubbleSort\OptimizedBubbleSort\obj\Debug\OptimizedBubbleSort.exe
+C:\Users\Z004K1SD\source\repos\OptimizedBubbleSort\OptimizedBubbleSort\obj\Debug\OptimizedBubbleSort.pdb

@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\lINKEDiNeVENTS\lINKEDiNeVENTS\bin\Debug\lINKEDiNeVENTS.exe.config
+C:\Users\Z004K1SD\source\repos\lINKEDiNeVENTS\lINKEDiNeVENTS\bin\Debug\lINKEDiNeVENTS.exe
+C:\Users\Z004K1SD\source\repos\lINKEDiNeVENTS\lINKEDiNeVENTS\bin\Debug\lINKEDiNeVENTS.pdb
+C:\Users\Z004K1SD\source\repos\lINKEDiNeVENTS\lINKEDiNeVENTS\obj\Debug\lINKEDiNeVENTS.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\lINKEDiNeVENTS\lINKEDiNeVENTS\obj\Debug\lINKEDiNeVENTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\lINKEDiNeVENTS\lINKEDiNeVENTS\obj\Debug\lINKEDiNeVENTS.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\lINKEDiNeVENTS\lINKEDiNeVENTS\obj\Debug\lINKEDiNeVENTS.exe
+C:\Users\Z004K1SD\source\repos\lINKEDiNeVENTS\lINKEDiNeVENTS\obj\Debug\lINKEDiNeVENTS.pdb

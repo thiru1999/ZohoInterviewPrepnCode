@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nTStv9YURs0XWdeCmt8FKuaQ7/o2NDim2qKFe3SnhBlOVsCJyRJLFF+oIso+Wlb4l5x0qBUNtWQ1+E8zKAouQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004K1SD\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004K1SD\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}

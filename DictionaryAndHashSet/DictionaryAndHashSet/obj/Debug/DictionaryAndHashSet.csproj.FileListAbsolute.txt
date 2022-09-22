@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\DictionaryAndHashSet\DictionaryAndHashSet\bin\Debug\DictionaryAndHashSet.exe.config
+C:\Users\Z004K1SD\source\repos\DictionaryAndHashSet\DictionaryAndHashSet\bin\Debug\DictionaryAndHashSet.exe
+C:\Users\Z004K1SD\source\repos\DictionaryAndHashSet\DictionaryAndHashSet\bin\Debug\DictionaryAndHashSet.pdb
+C:\Users\Z004K1SD\source\repos\DictionaryAndHashSet\DictionaryAndHashSet\obj\Debug\DictionaryAndHashSet.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\DictionaryAndHashSet\DictionaryAndHashSet\obj\Debug\DictionaryAndHashSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\DictionaryAndHashSet\DictionaryAndHashSet\obj\Debug\DictionaryAndHashSet.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\DictionaryAndHashSet\DictionaryAndHashSet\obj\Debug\DictionaryAndHashSet.exe
+C:\Users\Z004K1SD\source\repos\DictionaryAndHashSet\DictionaryAndHashSet\obj\Debug\DictionaryAndHashSet.pdb

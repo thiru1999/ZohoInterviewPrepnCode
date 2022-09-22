@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoCelebrityProblem\ZohoCelebrityProblem\bin\Debug\ZohoCelebrityProblem.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoCelebrityProblem\ZohoCelebrityProblem\bin\Debug\ZohoCelebrityProblem.exe
+C:\Users\Z004K1SD\source\repos\ZohoCelebrityProblem\ZohoCelebrityProblem\bin\Debug\ZohoCelebrityProblem.pdb
+C:\Users\Z004K1SD\source\repos\ZohoCelebrityProblem\ZohoCelebrityProblem\obj\Debug\ZohoCelebrityProblem.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoCelebrityProblem\ZohoCelebrityProblem\obj\Debug\ZohoCelebrityProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoCelebrityProblem\ZohoCelebrityProblem\obj\Debug\ZohoCelebrityProblem.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoCelebrityProblem\ZohoCelebrityProblem\obj\Debug\ZohoCelebrityProblem.exe
+C:\Users\Z004K1SD\source\repos\ZohoCelebrityProblem\ZohoCelebrityProblem\obj\Debug\ZohoCelebrityProblem.pdb

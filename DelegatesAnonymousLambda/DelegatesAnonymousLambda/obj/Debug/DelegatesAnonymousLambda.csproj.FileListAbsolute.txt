@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\DelegatesAnonymousLambda\DelegatesAnonymousLambda\bin\Debug\DelegatesAnonymousLambda.exe.config
+C:\Users\Z004K1SD\source\repos\DelegatesAnonymousLambda\DelegatesAnonymousLambda\bin\Debug\DelegatesAnonymousLambda.exe
+C:\Users\Z004K1SD\source\repos\DelegatesAnonymousLambda\DelegatesAnonymousLambda\bin\Debug\DelegatesAnonymousLambda.pdb
+C:\Users\Z004K1SD\source\repos\DelegatesAnonymousLambda\DelegatesAnonymousLambda\obj\Debug\DelegatesAnonymousLambda.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\DelegatesAnonymousLambda\DelegatesAnonymousLambda\obj\Debug\DelegatesAnonymousLambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\DelegatesAnonymousLambda\DelegatesAnonymousLambda\obj\Debug\DelegatesAnonymousLambda.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\DelegatesAnonymousLambda\DelegatesAnonymousLambda\obj\Debug\DelegatesAnonymousLambda.exe
+C:\Users\Z004K1SD\source\repos\DelegatesAnonymousLambda\DelegatesAnonymousLambda\obj\Debug\DelegatesAnonymousLambda.pdb

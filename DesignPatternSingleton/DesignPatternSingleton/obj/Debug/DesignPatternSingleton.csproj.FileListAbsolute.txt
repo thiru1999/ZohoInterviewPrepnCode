@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\DesignPatternSingleton\DesignPatternSingleton\bin\Debug\DesignPatternSingleton.exe.config
+C:\Users\Z004K1SD\source\repos\DesignPatternSingleton\DesignPatternSingleton\bin\Debug\DesignPatternSingleton.exe
+C:\Users\Z004K1SD\source\repos\DesignPatternSingleton\DesignPatternSingleton\bin\Debug\DesignPatternSingleton.pdb
+C:\Users\Z004K1SD\source\repos\DesignPatternSingleton\DesignPatternSingleton\obj\Debug\DesignPatternSingleton.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\DesignPatternSingleton\DesignPatternSingleton\obj\Debug\DesignPatternSingleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\DesignPatternSingleton\DesignPatternSingleton\obj\Debug\DesignPatternSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\DesignPatternSingleton\DesignPatternSingleton\obj\Debug\DesignPatternSingleton.exe
+C:\Users\Z004K1SD\source\repos\DesignPatternSingleton\DesignPatternSingleton\obj\Debug\DesignPatternSingleton.pdb

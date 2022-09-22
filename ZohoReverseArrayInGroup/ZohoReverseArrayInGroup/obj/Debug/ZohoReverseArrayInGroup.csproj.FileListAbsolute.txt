@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoReverseArrayInGroup\ZohoReverseArrayInGroup\bin\Debug\ZohoReverseArrayInGroup.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoReverseArrayInGroup\ZohoReverseArrayInGroup\bin\Debug\ZohoReverseArrayInGroup.exe
+C:\Users\Z004K1SD\source\repos\ZohoReverseArrayInGroup\ZohoReverseArrayInGroup\bin\Debug\ZohoReverseArrayInGroup.pdb
+C:\Users\Z004K1SD\source\repos\ZohoReverseArrayInGroup\ZohoReverseArrayInGroup\obj\Debug\ZohoReverseArrayInGroup.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoReverseArrayInGroup\ZohoReverseArrayInGroup\obj\Debug\ZohoReverseArrayInGroup.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoReverseArrayInGroup\ZohoReverseArrayInGroup\obj\Debug\ZohoReverseArrayInGroup.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoReverseArrayInGroup\ZohoReverseArrayInGroup\obj\Debug\ZohoReverseArrayInGroup.exe
+C:\Users\Z004K1SD\source\repos\ZohoReverseArrayInGroup\ZohoReverseArrayInGroup\obj\Debug\ZohoReverseArrayInGroup.pdb

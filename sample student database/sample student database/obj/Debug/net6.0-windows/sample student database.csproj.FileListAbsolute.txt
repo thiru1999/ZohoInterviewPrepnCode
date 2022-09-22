@@ -1,0 +1,17 @@
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\bin\Debug\net6.0-windows\sample student database.exe
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\bin\Debug\net6.0-windows\sample student database.deps.json
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\bin\Debug\net6.0-windows\sample student database.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\bin\Debug\net6.0-windows\sample student database.dll
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\bin\Debug\net6.0-windows\sample student database.pdb
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample student database.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample student database.csproj.GenerateResource.cache
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample student database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample student database.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample student database.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample student database.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample student database.dll
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\refint\sample student database.dll
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample student database.pdb
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample student database.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\ref\sample student database.dll
+C:\Users\Z004K1SD\source\repos\sample student database\sample student database\obj\Debug\net6.0-windows\sample_student_database.student.resources

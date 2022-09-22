@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\OptimizedInsertionSort\OptimizedInsertionSort\bin\Debug\OptimizedInsertionSort.exe.config
+C:\Users\Z004K1SD\source\repos\OptimizedInsertionSort\OptimizedInsertionSort\bin\Debug\OptimizedInsertionSort.exe
+C:\Users\Z004K1SD\source\repos\OptimizedInsertionSort\OptimizedInsertionSort\bin\Debug\OptimizedInsertionSort.pdb
+C:\Users\Z004K1SD\source\repos\OptimizedInsertionSort\OptimizedInsertionSort\obj\Debug\OptimizedInsertionSort.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\OptimizedInsertionSort\OptimizedInsertionSort\obj\Debug\OptimizedInsertionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\OptimizedInsertionSort\OptimizedInsertionSort\obj\Debug\OptimizedInsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\OptimizedInsertionSort\OptimizedInsertionSort\obj\Debug\OptimizedInsertionSort.exe
+C:\Users\Z004K1SD\source\repos\OptimizedInsertionSort\OptimizedInsertionSort\obj\Debug\OptimizedInsertionSort.pdb

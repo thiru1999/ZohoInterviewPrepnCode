@@ -1,0 +1,17 @@
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\bin\Debug\net6.0-windows\Final_grid.exe
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\bin\Debug\net6.0-windows\Final_grid.deps.json
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\bin\Debug\net6.0-windows\Final_grid.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\bin\Debug\net6.0-windows\Final_grid.dll
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\bin\Debug\net6.0-windows\Final_grid.pdb
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.Form1.resources
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.csproj.GenerateResource.cache
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.dll
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\refint\Final_grid.dll
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.pdb
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\Final_grid.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\Final_grid\Final_grid\obj\Debug\net6.0-windows\ref\Final_grid.dll

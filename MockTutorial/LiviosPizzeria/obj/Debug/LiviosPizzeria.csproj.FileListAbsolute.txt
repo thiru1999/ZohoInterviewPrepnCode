@@ -1,0 +1,6 @@
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria\bin\Debug\LiviosPizzeria.dll
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria\bin\Debug\LiviosPizzeria.pdb
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.dll
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria\obj\Debug\LiviosPizzeria.pdb

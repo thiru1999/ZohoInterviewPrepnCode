@@ -1,0 +1,17 @@
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\bin\Debug\net6.0-windows\data grid student.exe
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\bin\Debug\net6.0-windows\data grid student.deps.json
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\bin\Debug\net6.0-windows\data grid student.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\bin\Debug\net6.0-windows\data grid student.dll
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\bin\Debug\net6.0-windows\data grid student.pdb
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data grid student.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data_grid_student.Form1.resources
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data grid student.csproj.GenerateResource.cache
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data grid student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data grid student.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data grid student.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data grid student.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data grid student.dll
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\refint\data grid student.dll
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data grid student.pdb
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\data grid student.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\data grid student\data grid student\obj\Debug\net6.0-windows\ref\data grid student.dll

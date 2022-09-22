@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Pointer_Technique_Finding_Pairs", "Two_Pointer_Technique_Finding_Pairs\Two_Pointer_Technique_Finding_Pairs.csproj", "{C26C582A-EF4E-4B9B-B00B-E82200664ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26C582A-EF4E-4B9B-B00B-E82200664ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26C582A-EF4E-4B9B-B00B-E82200664ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26C582A-EF4E-4B9B-B00B-E82200664ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26C582A-EF4E-4B9B-B00B-E82200664ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {455F3ABB-6AF2-4A88-A6B6-5D5043FC21F4}
+	EndGlobalSection
+EndGlobal

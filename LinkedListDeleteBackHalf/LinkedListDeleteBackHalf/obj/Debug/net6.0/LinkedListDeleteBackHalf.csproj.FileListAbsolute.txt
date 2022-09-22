@@ -1,0 +1,5 @@
+C:\Users\Z004K1SD\source\repos\LinkedListDeleteBackHalf\LinkedListDeleteBackHalf\obj\Debug\net6.0\LinkedListDeleteBackHalf.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\LinkedListDeleteBackHalf\LinkedListDeleteBackHalf\obj\Debug\net6.0\LinkedListDeleteBackHalf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\LinkedListDeleteBackHalf\LinkedListDeleteBackHalf\obj\Debug\net6.0\LinkedListDeleteBackHalf.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\LinkedListDeleteBackHalf\LinkedListDeleteBackHalf\obj\Debug\net6.0\LinkedListDeleteBackHalf.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\LinkedListDeleteBackHalf\LinkedListDeleteBackHalf\obj\Debug\net6.0\LinkedListDeleteBackHalf.csproj.CoreCompileInputs.cache

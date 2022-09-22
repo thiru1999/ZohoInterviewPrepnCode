@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Name>Thiru</Name>
+    <Gender>Male</Gender>
+    <Age>22</Age>
+  </Employee>
+  <Employee>
+    <Name>Serma</Name>
+    <Gender>Male</Gender>
+    <Age>23</Age>
+  </Employee>
+  <Employee>
+    <Name>Kumar</Name>
+    <Gender>Male</Gender>
+    <Age>24</Age>
+  </Employee>
+  <Employee>
+  </Employee>
+  <Employee>
+    <Name>jnkjhk</Name>
+    <Gender>jhjkh</Gender>
+    <Age>22</Age>
+  </Employee>
+</ArrayOfEmployee>

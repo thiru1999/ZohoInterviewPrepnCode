@@ -1,0 +1,15 @@
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\bin\Debug\net6.0\Railway_Ticket_Booking_System.exe
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\bin\Debug\net6.0\Railway_Ticket_Booking_System.deps.json
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\bin\Debug\net6.0\Railway_Ticket_Booking_System.runtimeconfig.json
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\bin\Debug\net6.0\Railway_Ticket_Booking_System.pdb
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\Railway_Ticket_Booking_System.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\Railway_Ticket_Booking_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\Railway_Ticket_Booking_System.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\Railway_Ticket_Booking_System.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\Railway_Ticket_Booking_System.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\Railway_Ticket_Booking_System.dll
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\refint\Railway_Ticket_Booking_System.dll
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\Railway_Ticket_Booking_System.pdb
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\Railway_Ticket_Booking_System.genruntimeconfig.cache
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\ref\Railway_Ticket_Booking_System.dll
+C:\Users\Z004K1SD\source\repos\Railway_Ticket_Booking_System\Railway_Ticket_Booking_System\obj\Debug\net6.0\Railway_Ticket_Booking_System.csproj.CopyComplete

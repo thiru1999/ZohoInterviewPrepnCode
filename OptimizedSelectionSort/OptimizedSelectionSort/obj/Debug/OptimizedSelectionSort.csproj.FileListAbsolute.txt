@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\OptimizedSelectionSort\OptimizedSelectionSort\bin\Debug\OptimizedSelectionSort.exe.config
+C:\Users\Z004K1SD\source\repos\OptimizedSelectionSort\OptimizedSelectionSort\bin\Debug\OptimizedSelectionSort.exe
+C:\Users\Z004K1SD\source\repos\OptimizedSelectionSort\OptimizedSelectionSort\bin\Debug\OptimizedSelectionSort.pdb
+C:\Users\Z004K1SD\source\repos\OptimizedSelectionSort\OptimizedSelectionSort\obj\Debug\OptimizedSelectionSort.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\OptimizedSelectionSort\OptimizedSelectionSort\obj\Debug\OptimizedSelectionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\OptimizedSelectionSort\OptimizedSelectionSort\obj\Debug\OptimizedSelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\OptimizedSelectionSort\OptimizedSelectionSort\obj\Debug\OptimizedSelectionSort.exe
+C:\Users\Z004K1SD\source\repos\OptimizedSelectionSort\OptimizedSelectionSort\obj\Debug\OptimizedSelectionSort.pdb

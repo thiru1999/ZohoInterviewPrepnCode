@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoPrepFindingStringCount\ZohoPrepFindingStringCount\bin\Debug\ZohoPrepFindingStringCount.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoPrepFindingStringCount\ZohoPrepFindingStringCount\bin\Debug\ZohoPrepFindingStringCount.exe
+C:\Users\Z004K1SD\source\repos\ZohoPrepFindingStringCount\ZohoPrepFindingStringCount\bin\Debug\ZohoPrepFindingStringCount.pdb
+C:\Users\Z004K1SD\source\repos\ZohoPrepFindingStringCount\ZohoPrepFindingStringCount\obj\Debug\ZohoPrepFindingStringCount.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoPrepFindingStringCount\ZohoPrepFindingStringCount\obj\Debug\ZohoPrepFindingStringCount.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoPrepFindingStringCount\ZohoPrepFindingStringCount\obj\Debug\ZohoPrepFindingStringCount.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoPrepFindingStringCount\ZohoPrepFindingStringCount\obj\Debug\ZohoPrepFindingStringCount.exe
+C:\Users\Z004K1SD\source\repos\ZohoPrepFindingStringCount\ZohoPrepFindingStringCount\obj\Debug\ZohoPrepFindingStringCount.pdb

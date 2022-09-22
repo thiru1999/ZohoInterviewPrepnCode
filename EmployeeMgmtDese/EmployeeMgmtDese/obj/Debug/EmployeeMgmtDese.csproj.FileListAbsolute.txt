@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\EmployeeMgmtDese\EmployeeMgmtDese\bin\Debug\EmployeeMgmtDese.exe.config
+C:\Users\Z004K1SD\source\repos\EmployeeMgmtDese\EmployeeMgmtDese\bin\Debug\EmployeeMgmtDese.exe
+C:\Users\Z004K1SD\source\repos\EmployeeMgmtDese\EmployeeMgmtDese\bin\Debug\EmployeeMgmtDese.pdb
+C:\Users\Z004K1SD\source\repos\EmployeeMgmtDese\EmployeeMgmtDese\obj\Debug\EmployeeMgmtDese.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\EmployeeMgmtDese\EmployeeMgmtDese\obj\Debug\EmployeeMgmtDese.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\EmployeeMgmtDese\EmployeeMgmtDese\obj\Debug\EmployeeMgmtDese.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\EmployeeMgmtDese\EmployeeMgmtDese\obj\Debug\EmployeeMgmtDese.exe
+C:\Users\Z004K1SD\source\repos\EmployeeMgmtDese\EmployeeMgmtDese\obj\Debug\EmployeeMgmtDese.pdb

@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoInvoiceManagement\ZohoInvoiceManagement\bin\Debug\ZohoInvoiceManagement.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoInvoiceManagement\ZohoInvoiceManagement\bin\Debug\ZohoInvoiceManagement.exe
+C:\Users\Z004K1SD\source\repos\ZohoInvoiceManagement\ZohoInvoiceManagement\bin\Debug\ZohoInvoiceManagement.pdb
+C:\Users\Z004K1SD\source\repos\ZohoInvoiceManagement\ZohoInvoiceManagement\obj\Debug\ZohoInvoiceManagement.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoInvoiceManagement\ZohoInvoiceManagement\obj\Debug\ZohoInvoiceManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoInvoiceManagement\ZohoInvoiceManagement\obj\Debug\ZohoInvoiceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoInvoiceManagement\ZohoInvoiceManagement\obj\Debug\ZohoInvoiceManagement.exe
+C:\Users\Z004K1SD\source\repos\ZohoInvoiceManagement\ZohoInvoiceManagement\obj\Debug\ZohoInvoiceManagement.pdb

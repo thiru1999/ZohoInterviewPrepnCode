@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoRegexMobieNoChecking\ZohoRegexMobieNoChecking\bin\Debug\ZohoRegexMobieNoChecking.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoRegexMobieNoChecking\ZohoRegexMobieNoChecking\bin\Debug\ZohoRegexMobieNoChecking.exe
+C:\Users\Z004K1SD\source\repos\ZohoRegexMobieNoChecking\ZohoRegexMobieNoChecking\bin\Debug\ZohoRegexMobieNoChecking.pdb
+C:\Users\Z004K1SD\source\repos\ZohoRegexMobieNoChecking\ZohoRegexMobieNoChecking\obj\Debug\ZohoRegexMobieNoChecking.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoRegexMobieNoChecking\ZohoRegexMobieNoChecking\obj\Debug\ZohoRegexMobieNoChecking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoRegexMobieNoChecking\ZohoRegexMobieNoChecking\obj\Debug\ZohoRegexMobieNoChecking.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoRegexMobieNoChecking\ZohoRegexMobieNoChecking\obj\Debug\ZohoRegexMobieNoChecking.exe
+C:\Users\Z004K1SD\source\repos\ZohoRegexMobieNoChecking\ZohoRegexMobieNoChecking\obj\Debug\ZohoRegexMobieNoChecking.pdb

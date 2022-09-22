@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoSnakePatternProblem\ZohoSnakePatternProblem\bin\Debug\ZohoSnakePatternProblem.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoSnakePatternProblem\ZohoSnakePatternProblem\bin\Debug\ZohoSnakePatternProblem.exe
+C:\Users\Z004K1SD\source\repos\ZohoSnakePatternProblem\ZohoSnakePatternProblem\bin\Debug\ZohoSnakePatternProblem.pdb
+C:\Users\Z004K1SD\source\repos\ZohoSnakePatternProblem\ZohoSnakePatternProblem\obj\Debug\ZohoSnakePatternProblem.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoSnakePatternProblem\ZohoSnakePatternProblem\obj\Debug\ZohoSnakePatternProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoSnakePatternProblem\ZohoSnakePatternProblem\obj\Debug\ZohoSnakePatternProblem.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoSnakePatternProblem\ZohoSnakePatternProblem\obj\Debug\ZohoSnakePatternProblem.exe
+C:\Users\Z004K1SD\source\repos\ZohoSnakePatternProblem\ZohoSnakePatternProblem\obj\Debug\ZohoSnakePatternProblem.pdb

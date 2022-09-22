@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\EventAndDelegateMosh\EventAndDelegateMosh\bin\Debug\EventAndDelegateMosh.exe.config
+C:\Users\Z004K1SD\source\repos\EventAndDelegateMosh\EventAndDelegateMosh\bin\Debug\EventAndDelegateMosh.exe
+C:\Users\Z004K1SD\source\repos\EventAndDelegateMosh\EventAndDelegateMosh\bin\Debug\EventAndDelegateMosh.pdb
+C:\Users\Z004K1SD\source\repos\EventAndDelegateMosh\EventAndDelegateMosh\obj\Debug\EventAndDelegateMosh.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\EventAndDelegateMosh\EventAndDelegateMosh\obj\Debug\EventAndDelegateMosh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\EventAndDelegateMosh\EventAndDelegateMosh\obj\Debug\EventAndDelegateMosh.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\EventAndDelegateMosh\EventAndDelegateMosh\obj\Debug\EventAndDelegateMosh.exe
+C:\Users\Z004K1SD\source\repos\EventAndDelegateMosh\EventAndDelegateMosh\obj\Debug\EventAndDelegateMosh.pdb

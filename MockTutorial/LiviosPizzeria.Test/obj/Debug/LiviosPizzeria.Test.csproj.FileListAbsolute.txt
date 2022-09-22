@@ -1,0 +1,11 @@
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.Test.dll
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.Test.pdb
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.dll
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\bin\Debug\Rhino.Mocks.dll
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\bin\Debug\LiviosPizzeria.pdb
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.csproj.CopyComplete
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.dll
+C:\Users\Z004K1SD\source\repos\MockTutorial\LiviosPizzeria.Test\obj\Debug\LiviosPizzeria.Test.pdb

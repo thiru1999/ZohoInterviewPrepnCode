@@ -1,0 +1,12 @@
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\bin\Debug\net6.0\ACM.bl.deps.json
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\bin\Debug\net6.0\ACM.bl.dll
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\bin\Debug\net6.0\ACM.bl.pdb
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\obj\Debug\net6.0\ACM.bl.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\obj\Debug\net6.0\ACM.bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\obj\Debug\net6.0\ACM.bl.AssemblyInfoInputs.cache
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\obj\Debug\net6.0\ACM.bl.AssemblyInfo.cs
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\obj\Debug\net6.0\ACM.bl.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\obj\Debug\net6.0\ACM.bl.dll
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\obj\Debug\net6.0\refint\ACM.bl.dll
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\obj\Debug\net6.0\ACM.bl.pdb
+C:\Users\Z004K1SD\source\repos\ACM\ACM.bl\obj\Debug\net6.0\ref\ACM.bl.dll
