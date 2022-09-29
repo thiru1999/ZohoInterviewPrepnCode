@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoPblm1ReverseString\ZohoPblm1ReverseString\bin\Debug\ZohoPblm1ReverseString.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoPblm1ReverseString\ZohoPblm1ReverseString\bin\Debug\ZohoPblm1ReverseString.exe
+C:\Users\Z004K1SD\source\repos\ZohoPblm1ReverseString\ZohoPblm1ReverseString\bin\Debug\ZohoPblm1ReverseString.pdb
+C:\Users\Z004K1SD\source\repos\ZohoPblm1ReverseString\ZohoPblm1ReverseString\obj\Debug\ZohoPblm1ReverseString.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoPblm1ReverseString\ZohoPblm1ReverseString\obj\Debug\ZohoPblm1ReverseString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoPblm1ReverseString\ZohoPblm1ReverseString\obj\Debug\ZohoPblm1ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoPblm1ReverseString\ZohoPblm1ReverseString\obj\Debug\ZohoPblm1ReverseString.exe
+C:\Users\Z004K1SD\source\repos\ZohoPblm1ReverseString\ZohoPblm1ReverseString\obj\Debug\ZohoPblm1ReverseString.pdb

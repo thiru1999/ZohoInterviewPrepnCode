@@ -1,0 +1,8 @@
+C:\Users\Z004K1SD\source\repos\ZohoPgm2DateSort\ZohoPgm2DateSort\bin\Debug\ZohoPgm2DateSort.exe.config
+C:\Users\Z004K1SD\source\repos\ZohoPgm2DateSort\ZohoPgm2DateSort\bin\Debug\ZohoPgm2DateSort.exe
+C:\Users\Z004K1SD\source\repos\ZohoPgm2DateSort\ZohoPgm2DateSort\bin\Debug\ZohoPgm2DateSort.pdb
+C:\Users\Z004K1SD\source\repos\ZohoPgm2DateSort\ZohoPgm2DateSort\obj\Debug\ZohoPgm2DateSort.csproj.AssemblyReference.cache
+C:\Users\Z004K1SD\source\repos\ZohoPgm2DateSort\ZohoPgm2DateSort\obj\Debug\ZohoPgm2DateSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004K1SD\source\repos\ZohoPgm2DateSort\ZohoPgm2DateSort\obj\Debug\ZohoPgm2DateSort.csproj.CoreCompileInputs.cache
+C:\Users\Z004K1SD\source\repos\ZohoPgm2DateSort\ZohoPgm2DateSort\obj\Debug\ZohoPgm2DateSort.exe
+C:\Users\Z004K1SD\source\repos\ZohoPgm2DateSort\ZohoPgm2DateSort\obj\Debug\ZohoPgm2DateSort.pdb

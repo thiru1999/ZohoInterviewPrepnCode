@@ -25,7 +25,7 @@ namespace ZohoGCD
                 else
                     n2 -= n1;
             }
-            Console.WriteLine(" G.C.D is " + n1);
+            Console.WriteLine(" G.C.D is " + n2);
             Console.ReadKey();
         }
 

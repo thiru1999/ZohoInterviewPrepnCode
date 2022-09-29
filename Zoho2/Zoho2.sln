@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoho2", "Zoho2\Zoho2.csproj", "{4397E449-540A-47AC-B7F3-8FC8F3FC6BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4397E449-540A-47AC-B7F3-8FC8F3FC6BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4397E449-540A-47AC-B7F3-8FC8F3FC6BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4397E449-540A-47AC-B7F3-8FC8F3FC6BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4397E449-540A-47AC-B7F3-8FC8F3FC6BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E09757AC-067B-4F03-9E51-9938D4DB41CC}
+	EndGlobalSection
+EndGlobal
