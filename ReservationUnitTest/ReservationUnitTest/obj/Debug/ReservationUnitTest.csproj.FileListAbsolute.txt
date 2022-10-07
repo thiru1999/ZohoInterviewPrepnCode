@@ -29,3 +29,5 @@ C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTest\bin\Debug
 C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTest\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTest\bin\Debug\EntityFramework.xml
 C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTest\bin\Debug\Rhino.Mocks.dll
+C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTest\bin\Debug\Rhino.Mocks.xml

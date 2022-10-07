@@ -37,3 +37,5 @@ C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTesting\bin\De
 C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTesting\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTesting\bin\Debug\EntityFramework.dll
 C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTesting\bin\Debug\EntityFramework.xml
+C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTesting\bin\Debug\Rhino.Mocks.dll
+C:\Users\Z004K1SD\source\repos\ReservationUnitTest\ReservationUnitTesting\bin\Debug\Rhino.Mocks.xml
